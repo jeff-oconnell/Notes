@@ -3,4 +3,11 @@ Jenkins install -- linux
 git init
 git add . --> adds files to staging area
 git commit -m "first commit" ----> commits files from staging are to local repo
+git remote add origin https://github.com/jeff-oconnell/Notes.git
+git push -u origin master
+
+
+
+git status
+
 
