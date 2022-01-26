@@ -1,0 +1,6 @@
+Jenkins install -- linux
+
+git init
+git add . --> adds files to staging area
+git commit -m "first commit" ----> commits files from staging are to local repo
+

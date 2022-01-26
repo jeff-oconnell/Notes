@@ -1,0 +1,36 @@
+AWS Free 
+ -- Compute
+pepper-jan25
+SSH client
+ --PUTTY
+ --GITBASH
+
+tutorialspoint.com/unix/unix-getting-started.htm
+
+text editor nano editor
+nano message.txt
+cat message.txt
+
+
+cd / -- root
+cd ~ -- home
+
+cp
+
+
+enviromental variables
+
+https://discord.gg/eu32G2c7 yea Daniel made one
+
+Unix Permissions
+chmod
+
+exit
+
+
+
+
+
+
+
+

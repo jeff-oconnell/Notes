@@ -1,0 +1,31 @@
+AWS
+create an account -- Free EC2
+
+Install GIT
+GITBASH - Create account
+
+JDK 14 or above or above
+
+Eclipse -  Picture taken - For  Enterprise 2020-12 4.18.0
+
+Softwares required
+------------------
+
+1) AWS - Amazon Web Services
+	- create an account with aws
+2) install Git bash in your laptop
+3) create a github account in www.github.com
+4) install java  - jdk1.8 + , jdk 14
+5) IDE- Intergrated Development Environment - Eclipse
+	- Eclipse IDE for Enterprise J
+Softwares required
+------------------
+
+1) AWS - Amazon Web Services
+	- create an account with aws
+2) install Git bash in your laptop
+3) create a github account in www.github.com
+4) install java  - jdk1.8 + , jdk 14
+5) IDE- Intergrated Development Environment - Eclipse
+	- Eclipse IDE for Enterprise Java Developers
+	  Version: 2020-12 (4.18.0)
